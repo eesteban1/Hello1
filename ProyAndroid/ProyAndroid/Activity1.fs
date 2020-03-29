@@ -12,7 +12,7 @@ open Android.Runtime
 open Android.Views
 open Android.Widget
 
-[<Activity (Label = "Primera actividad")>]
+[<Activity (Label = "Primera actividad de edmundo")>]
 type Activity1 () =
   inherit Activity()
 
