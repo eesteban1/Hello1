@@ -61,6 +61,7 @@
     <Compile Include="Activity1.fs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Nuevo.fs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.FSharp.targets" />
 </Project>
